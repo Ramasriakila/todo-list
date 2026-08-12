@@ -1,5 +1,5 @@
 # Ex03 To-Do List using JavaScript
-# Date: 6/08/2026
+# Date: 12/08/2026
 ## AIM
 To create a To-do Application with all features using JavaScript.
 
@@ -17,6 +17,7 @@ Plan the features the To-Do App should have.
 Create a To-do application using Javascript.
 
 ### STEP 5
+
 Add functionalities.
 
 ### STEP 6
